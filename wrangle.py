@@ -35,6 +35,9 @@ from sklearn.impute import SimpleImputer
 
 from env import user, password, host
 
+import warnings
+warnings.filterwarnings('ignore')
+
 #b.ACQUIRE_ZILLOW FUNCTION
 #******************************************************************************
 def acquire_zillow():
