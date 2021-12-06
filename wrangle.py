@@ -66,7 +66,7 @@ def acquire_zillow():
                          'taxamount': 'tax_amt',
                          'fips': 'fips'}, inplace = True)
     return df
-    
+
 #c.REMOVE_OUTLIERS FUNCTION
 #******************************************************************************
 def remove_outliers(df, k, col_list):
