@@ -1,14 +1,12 @@
 # Regression Exercises
 
->Classification: categorical target variable<br>
-LInear Regression: continuous target variable
+><b>Classification:</b>b> categorical target variable<br>
+<b>Linear Regression:</b> continuous target variable
 
-I. Wrangle
+## 01 Acquisition and Prep
 
-II. Explore
+## 02 Scaling
 
-III. Model
+## 03 Exploration
 
-IV. Evaluate
-
-V. Conclusions and Next Steps
+## 04 Evaluation
